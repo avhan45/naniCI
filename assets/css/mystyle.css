@@ -1,0 +1,8 @@
+@media print{
+    .btn-primary, .btn-warning, .btn-info, .search{
+        display: none;
+    }
+    .hitung{
+        margin-top: 30%;
+    }
+}
